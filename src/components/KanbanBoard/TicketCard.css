@@ -1,0 +1,34 @@
+.ticket-card {
+    background: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ticket-footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9em;
+  }
+  
+  .priority-0 {
+    color: gray;
+  }
+  
+  .priority-1 {
+    color: blue;
+  }
+  
+  .priority-2 {
+    color: green;
+  }
+  
+  .priority-3 {
+    color: orange;
+  }
+  
+  .priority-4 {
+    color: red;
+  }
+  
